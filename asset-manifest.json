@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/coinbaseAPI/static/js/main.f3fb7fde.js",
+    "index.html": "/coinbaseAPI/index.html",
+    "main.f3fb7fde.js.map": "/coinbaseAPI/static/js/main.f3fb7fde.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f3fb7fde.js"
+  ]
+}
