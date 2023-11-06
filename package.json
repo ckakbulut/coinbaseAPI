@@ -1,6 +1,6 @@
 {
   "name": "coinstrats",
-  "homepage": "https://yellowskybolt.github.io/coinabaseAPI",
+  "homepage": "https://yellowskybolt.github.io/coinbaseAPI",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
